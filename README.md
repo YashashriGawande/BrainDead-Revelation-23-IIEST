@@ -1,4 +1,4 @@
-# BrainDead-Revelation-23-IIEST
+# BrainDead-Revelation23-IIEST
 
 ## Problem Statement 1 : Analyze Placement Data
 
